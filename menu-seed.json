@@ -1,0 +1,522 @@
+[
+  {
+    "sq": {
+      "name": "Fli",
+      "description": "Petë tradicionale me shumë shtresa, shërbehet me salcë tradicionale rikote dhe reçel shtëpie.",
+      "category": "Të pjekura"
+    },
+    "it": {
+      "name": "Fli",
+      "description": "Pancake salato tradizionale a più strati, servito con salsa di ricotta e marmellata fatta in casa.",
+      "category": "Prodotti da forno"
+    },
+    "en": {
+      "name": "Fli",
+      "description": "Traditional multi-layered savoury pancake, served with a traditional ricotta cheese dip and homemade jam.",
+      "category": "Baked goods"
+    },
+    "price": 4.8,
+    "image_url": "assets/bread-closeup.jpg",
+    "sort_order": 0
+  },
+  {
+    "sq": {
+      "name": "Mantija",
+      "description": "Pite të vogla me mish të grirë, të përgatitura në shtëpi.",
+      "category": "Të pjekura"
+    },
+    "it": {
+      "name": "Mantija",
+      "description": "Piccoli tortini fatti in casa con carne macinata.",
+      "category": "Prodotti da forno"
+    },
+    "en": {
+      "name": "Mantija",
+      "description": "Homemade mini minced meat pies.",
+      "category": "Baked goods"
+    },
+    "price": 4,
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 1
+  },
+  {
+    "sq": {
+      "name": "Pite",
+      "description": "Pite tradicionale shqiptare me spinaq. Me lakër, presh ose kungull me porosi një orë përpara.",
+      "category": "Të pjekura"
+    },
+    "it": {
+      "name": "Pite",
+      "description": "Torta salata albanese agli spinaci. Disponibile con cavolo, porro o zucca ordinando con un’ora di anticipo.",
+      "category": "Prodotti da forno"
+    },
+    "en": {
+      "name": "Pite",
+      "description": "Traditional Albanian pie made with spinach. Also available with cabbage, leek or pumpkin when ordered an hour in advance.",
+      "category": "Baked goods"
+    },
+    "price": 3.8,
+    "image_url": "assets/bread-closeup.jpg",
+    "sort_order": 2
+  },
+  {
+    "sq": {
+      "name": "Leqenik",
+      "description": "Bukë misri me spinaq, shërbehet me kos të bërë në shtëpi.",
+      "category": "Të pjekura"
+    },
+    "it": {
+      "name": "Pane di mais agli spinaci",
+      "description": "Pane di mais con spinaci, servito con yogurt acido fatto in casa.",
+      "category": "Prodotti da forno"
+    },
+    "en": {
+      "name": "Lecenik",
+      "description": "Maize bread with spinach, served with homemade sour yoghurt.",
+      "category": "Baked goods"
+    },
+    "price": 4,
+    "image_url": "assets/bread-closeup.jpg",
+    "sort_order": 3
+  },
+  {
+    "sq": {
+      "name": "Tavë Elbasani",
+      "description": "Kos sipas mënyrës së Elbasanit, hudhër dhe mish qengji i butë.",
+      "category": "Tavë"
+    },
+    "it": {
+      "name": "Tavë di Elbasan",
+      "description": "Yogurt secondo la tradizione di Elbasan, aglio e tenero agnello.",
+      "category": "Tegami"
+    },
+    "en": {
+      "name": "Tavë Elbasan",
+      "description": "Elbasan-style yoghurt and garlic with tenderised, chopped lamb.",
+      "category": "Tavë"
+    },
+    "price": 9.9,
+    "image_url": "assets/kitchen-passion.jpg",
+    "sort_order": 4
+  },
+  {
+    "sq": {
+      "name": "Tavë me mish viçi e domate",
+      "description": "Mish viçi i gatuar ngadalë me domate, speca dhe qepë.",
+      "category": "Tavë"
+    },
+    "it": {
+      "name": "Tegame di vitello e pomodoro",
+      "description": "Vitello cotto lentamente con pomodori, peperoni e cipolle.",
+      "category": "Tegami"
+    },
+    "en": {
+      "name": "Tavë veal & tomato",
+      "description": "A slow-cooked stew of tomatoes, peppers and onions with veal calf muscle.",
+      "category": "Tavë"
+    },
+    "price": 9,
+    "image_url": "assets/plating-meat.jpg",
+    "sort_order": 5
+  },
+  {
+    "sq": {
+      "name": "Tavë sarma",
+      "description": "Mish i grirë me oriz dhe erëza, mbështjellë sipas sezonit me lakër ose gjethe rrushi.",
+      "category": "Tavë"
+    },
+    "it": {
+      "name": "Tavë sarma",
+      "description": "Carne macinata, riso e spezie, avvolti secondo la stagione in foglie di cavolo o vite.",
+      "category": "Tegami"
+    },
+    "en": {
+      "name": "Tavë sarma",
+      "description": "Wrapped minced meat with rice and assorted spices; seasonally wrapped in cabbage or grape leaves.",
+      "category": "Tavë"
+    },
+    "price": 8,
+    "image_url": "assets/tave-sarma.jpg",
+    "sort_order": 6
+  },
+  {
+    "sq": {
+      "name": "Tavë menemen",
+      "description": "Speca të kuq, domate dhe djathë.",
+      "category": "Tavë"
+    },
+    "it": {
+      "name": "Tavë menemen",
+      "description": "Peperoni rossi, pomodori e formaggio.",
+      "category": "Tegami"
+    },
+    "en": {
+      "name": "Tavë (menemen)",
+      "description": "Red peppers, tomatoes and cheese.",
+      "category": "Tavë"
+    },
+    "price": 6.5,
+    "image_url": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 7
+  },
+  {
+    "sq": {
+      "name": "Tavë me kungulleshka",
+      "description": "Kungulleshka me salcë të ftohtë kosi dhe hudhre.",
+      "category": "Tavë"
+    },
+    "it": {
+      "name": "Tegame di zucchine",
+      "description": "Zucchine con una base fredda di panna acida e aglio.",
+      "category": "Tegami"
+    },
+    "en": {
+      "name": "Tavë zucchini",
+      "description": "Zucchini with a cold sour cream and garlic base.",
+      "category": "Tavë"
+    },
+    "price": 7,
+    "image_url": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 8
+  },
+  {
+    "sq": {
+      "name": "Llokuma",
+      "description": "Brumë i skuqur, shërbyer me salcë tradicionale rikote, reçel shtëpie dhe djathë feta.",
+      "category": "Mëngjes"
+    },
+    "it": {
+      "name": "Llokuma",
+      "description": "Frittelle servite con salsa tradizionale di ricotta, marmellata fatta in casa e feta.",
+      "category": "Colazione"
+    },
+    "en": {
+      "name": "Llokuma",
+      "description": "Fried dough fritters with traditional ricotta cheese dip, homemade jam and feta cheese.",
+      "category": "Breakfast"
+    },
+    "price": 3.8,
+    "image_url": "assets/bread-closeup.jpg",
+    "sort_order": 9
+  },
+  {
+    "sq": {
+      "name": "Kaçamak me suxhuk",
+      "description": "",
+      "category": "Mëngjes"
+    },
+    "it": {
+      "name": "Kaçamak con suxhuk",
+      "description": "",
+      "category": "Colazione"
+    },
+    "en": {
+      "name": "Kaqamak with sausage (suxhuk)",
+      "description": "",
+      "category": "Breakfast"
+    },
+    "price": 4.5,
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 10
+  },
+  {
+    "sq": {
+      "name": "Gjellë me lëng kockash viçi",
+      "description": "Gjellë tradicionale, e përgatitur në shtëpi me lëng kockash viçi.",
+      "category": "Supa"
+    },
+    "it": {
+      "name": "Stufato nel brodo di ossa di vitello",
+      "description": "Un piatto tradizionale fatto in casa con brodo di ossa di vitello.",
+      "category": "Zuppe"
+    },
+    "en": {
+      "name": "Veal bone broth stew",
+      "description": "A homemade, hearty traditional delicacy made from veal bone broth.",
+      "category": "Soups"
+    },
+    "price": 3,
+    "image_url": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 11
+  },
+  {
+    "sq": {
+      "name": "Pogaqe për 2 persona",
+      "description": "Bukë tradicionale në formë zemre, me kefir, salcë rikote dhe specash.",
+      "category": "Mëngjes"
+    },
+    "it": {
+      "name": "Pogaqe per 2 persone",
+      "description": "Pane tradizionale a forma di cuore con kefir, salsa di ricotta e peperoni.",
+      "category": "Colazione"
+    },
+    "en": {
+      "name": "Pogaqe bread for 2",
+      "description": "Traditional kefir-infused heart-shaped bread, served with ricotta cheese and pepper dip.",
+      "category": "Breakfast"
+    },
+    "price": 5.5,
+    "image_url": "assets/bread-closeup.jpg",
+    "sort_order": 12
+  },
+  {
+    "sq": {
+      "name": "Omëletë",
+      "description": "Vezë të skuqura, shërbyer me djathë feta, kastravec dhe domate.",
+      "category": "Vezë & omëleta"
+    },
+    "it": {
+      "name": "Omelette",
+      "description": "Uova fritte servite con feta, cetriolo e pomodoro.",
+      "category": "Uova & omelette"
+    },
+    "en": {
+      "name": "Omelette",
+      "description": "Plain fried eggs, served with feta cheese, cucumber and tomato.",
+      "category": "Omelettes"
+    },
+    "price": 2.8,
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 13
+  },
+  {
+    "sq": {
+      "name": "Vezë me perime të pjekura",
+      "description": "Vezë të skuqura me përzierje perimesh të pjekura.",
+      "category": "Vezë & omëleta"
+    },
+    "it": {
+      "name": "Uova con verdure grigliate",
+      "description": "Uova fritte con un assortimento di verdure grigliate.",
+      "category": "Uova & omelette"
+    },
+    "en": {
+      "name": "Eggs with grilled vegetables",
+      "description": "Fried eggs with an assortment of grilled vegetables.",
+      "category": "Omelettes"
+    },
+    "price": 3.8,
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 14
+  },
+  {
+    "sq": {
+      "name": "Sanduiç me pulë",
+      "description": "Pulë e pjekur në zgarë, djathë, sallatë jeshile dhe krem djathi.",
+      "category": "Sanduiçe"
+    },
+    "it": {
+      "name": "Panino al pollo",
+      "description": "Pollo grigliato, formaggio, lattuga e formaggio cremoso.",
+      "category": "Panini"
+    },
+    "en": {
+      "name": "Chicken sandwich",
+      "description": "Grilled chicken, cheese, lettuce and cream cheese.",
+      "category": "Sandwiches"
+    },
+    "price": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 15
+  },
+  {
+    "sq": {
+      "name": "Sanduiç vegjetarian",
+      "description": "Përzierje perimesh të pjekura, salcë hudhre dhe sallatë jeshile.",
+      "category": "Sanduiçe"
+    },
+    "it": {
+      "name": "Panino vegetariano grigliato",
+      "description": "Verdure grigliate assortite, salsa all’aglio e lattuga.",
+      "category": "Panini"
+    },
+    "en": {
+      "name": "Grilled vegetarian sandwich",
+      "description": "An assortment of grilled vegetables, garlic sauce and lettuce.",
+      "category": "Sandwiches"
+    },
+    "price": 4,
+    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 16
+  },
+  {
+    "sq": {
+      "name": "Supë sezonale",
+      "description": "Supë shtëpie me perime të freskëta të sezonit.",
+      "category": "Supa"
+    },
+    "it": {
+      "name": "Zuppa di stagione",
+      "description": "Zuppa fatta in casa con verdure fresche di stagione.",
+      "category": "Zuppe"
+    },
+    "en": {
+      "name": "Seasonal soup",
+      "description": "Homemade soup made with fresh seasonal vegetables.",
+      "category": "Soups"
+    },
+    "price": 2.8,
+    "image_url": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 17
+  },
+  {
+    "sq": {
+      "name": "Supë pule",
+      "description": "Lëng kockash pule bio, i përgatitur në shtëpi me karota dhe bizele.",
+      "category": "Supa"
+    },
+    "it": {
+      "name": "Zuppa di pollo",
+      "description": "Brodo casalingo di ossa di pollo biologico con carote e piselli.",
+      "category": "Zuppe"
+    },
+    "en": {
+      "name": "Chicken soup",
+      "description": "Homemade organic chicken bone broth with carrots and peas.",
+      "category": "Soups"
+    },
+    "price": 2.8,
+    "image_url": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 18
+  },
+  {
+    "sq": {
+      "name": "Sallatë greke",
+      "description": "Djathë feta, domate, qepë, kastravec dhe ullinj.",
+      "category": "Sallata & salca"
+    },
+    "it": {
+      "name": "Insalata greca",
+      "description": "Feta, pomodori, cipolle, cetrioli e olive.",
+      "category": "Insalate & salse"
+    },
+    "en": {
+      "name": "Greek salad",
+      "description": "Feta cheese, tomatoes, onions, cucumbers and olives.",
+      "category": "Salads & dips"
+    },
+    "price": 3.5,
+    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 19
+  },
+  {
+    "sq": {
+      "name": "Tzatziki Bukë e Zemër",
+      "description": "Tzatziki me një nuancë pikante.",
+      "category": "Sallata & salca"
+    },
+    "it": {
+      "name": "Tzatziki Bukë e Zemër",
+      "description": "Tzatziki con una nota speziata.",
+      "category": "Insalate & salse"
+    },
+    "en": {
+      "name": "Bukë e Zemër tzatziki",
+      "description": "Tzatziki with a hint of spice.",
+      "category": "Salads & dips"
+    },
+    "price": 2,
+    "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 20
+  },
+  {
+    "sq": {
+      "name": "Ajvar Bukë e Zemër",
+      "description": "Salcë me speca të kuq të pjekur.",
+      "category": "Sallata & salca"
+    },
+    "it": {
+      "name": "Ajvar Bukë e Zemër",
+      "description": "Crema di peperoni rossi arrostiti.",
+      "category": "Insalate & salse"
+    },
+    "en": {
+      "name": "Bukë e Zemër ajvar",
+      "description": "Roasted red pepper relish.",
+      "category": "Salads & dips"
+    },
+    "price": 2,
+    "image_url": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 21
+  },
+  {
+    "sq": {
+      "name": "Muskul viçi",
+      "description": "I pjekur ngadalë dhe i shërbyer me patate.",
+      "category": "Nga zgara"
+    },
+    "it": {
+      "name": "Muscolo di vitello",
+      "description": "Cotto lentamente al forno e servito con patate.",
+      "category": "Dalla griglia"
+    },
+    "en": {
+      "name": "Veal calf muscle",
+      "description": "Slow-baked and served with potatoes.",
+      "category": "From the grill"
+    },
+    "price": 13,
+    "image_url": "assets/plating-meat.jpg",
+    "sort_order": 22
+  },
+  {
+    "sq": {
+      "name": "Fileto pule",
+      "description": "Shërbehet me perime dhe oriz ose patate.",
+      "category": "Nga zgara"
+    },
+    "it": {
+      "name": "Filetto di pollo",
+      "description": "Servito con verdure e riso oppure patate.",
+      "category": "Dalla griglia"
+    },
+    "en": {
+      "name": "Chicken fillet",
+      "description": "Served with vegetables and rice or potatoes.",
+      "category": "From the grill"
+    },
+    "price": 6.5,
+    "image_url": "assets/plating-meat.jpg",
+    "sort_order": 23
+  },
+  {
+    "sq": {
+      "name": "Trileqe",
+      "description": "Ëmbëlsirë tradicionale shqiptare me qumësht të kondensuar, vezë dhe gjalpë.",
+      "category": "Ëmbëlsira"
+    },
+    "it": {
+      "name": "Trileqe",
+      "description": "Dolce tradizionale albanese con latte condensato, uova e burro.",
+      "category": "Dolci"
+    },
+    "en": {
+      "name": "Trileqe",
+      "description": "A sweet traditional Albanian cake made with condensed milk, eggs and butter.",
+      "category": "Desserts"
+    },
+    "price": 1.8,
+    "image_url": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 24
+  },
+  {
+    "sq": {
+      "name": "Pite shqiptare me mollë",
+      "description": "Petë me mollë, sheqer dhe kanellë.",
+      "category": "Ëmbëlsira"
+    },
+    "it": {
+      "name": "Torta di mele albanese",
+      "description": "Pasta sfoglia con mele, zucchero e cannella.",
+      "category": "Dolci"
+    },
+    "en": {
+      "name": "Albanian apple pie",
+      "description": "Pastry pie made with apples, sugar and cinnamon.",
+      "category": "Desserts"
+    },
+    "price": 2,
+    "image_url": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=720&q=78",
+    "sort_order": 25
+  }
+]
